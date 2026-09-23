@@ -1,0 +1,11 @@
+.env
+.env.local
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.dump
+*.backup
+*.xlsx
+*.xls
+*.csv
